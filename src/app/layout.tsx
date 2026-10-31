@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OCR Studio | Image to Text",
+  title: "OCR Studio",
   description:
     "Extract text from images with OCR Studio. A simple and lovely OCR tool.",
 };
